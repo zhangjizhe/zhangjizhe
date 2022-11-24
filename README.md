@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?zhangjizhe=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangjizhe)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 zhangjizhe/zhangjizhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
