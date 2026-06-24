@@ -5,39 +5,15 @@
 
 <br>
 
-## 🛠️ My Auto Skill Tree（自动读取仓库生成）
+## 🛠️ Auto Generate Skill Tree（全自动扫描仓库生成技能树）
 <p align="center">
-  <!-- 树形技能树，自动识别LangChain、Python、Agent相关代码 -->
-  <img width="860" src="https://github-skill-tree.vercel.app/api?username=zhangjizhe&theme=dark&v=2" alt="Auto Generate Skill Tree">
+  <!-- 自动读取仓库识别技术，加v=3强制刷新缓存解决空白问题 -->
+  <img width="860" src="https://github-skill-tree.vercel.app/api?username=zhangjizhe&theme=dark&v=3" alt="Auto Skill Tree">
 </p>
 
 <br>
 
-## 🤖 AI Agent & Core Tech Stack（重点突出LangChain/Agent）
+## 🤖 Core Tech Icons（AI Agent框架置顶）
 <p align="center">
-<!-- 新增langchain图标，置顶AI相关技术，强化Agent开发标签 -->
-<img src="https://skillicons.dev/icons?i=langchain,python,ts,react,nest,js,docker,mysql,git&theme=dark&perline=9&size=56" />
+<img src="https://skillicons.dev/icons?i=langchain,langgraph,python,ts,js,react,nest,docker,mysql,git&theme=dark&perline=10&size=52" />
 </p>
-
-<br>
-
-## 📂 Full Skill Classification（分层详细技能清单）
-### 🔹 AI Agent 开发
-- LLM 应用：LangChain、LangGraph、Prompt工程、RAG知识库
-- Agent框架：自定义Interview Agent、工具调用、多智能体协作
-- 大模型对接：OpenAI API、本地LLM调度、向量数据库检索
-
-### 🔹 前端开发
-- 语言：TypeScript / JavaScript
-- 框架：React、Next.js、TailwindCSS
-- 工程化：Vite、Eslint、组件封装
-
-### 🔹 后端全栈
-- Node/NestJS 服务开发、接口鉴权、中间件设计
-- Python 脚本、异步任务、数据处理
-
-### 🔹 数据库 & 存储
-- MySQL、MongoDB、Redis、向量库基础应用
-
-### 🔹 容器 & 工程运维
-- Docker 容器打包、Git版本管理、Linux基础操作
