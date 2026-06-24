@@ -1,26 +1,43 @@
 ## 📊 Github Stats
 <p align="center">
-  <img width="720" src="https://github-readme-stats.vercel.app/api?username=zhangjizhe&theme=tokyonight&title_color=89b4fa&icon_color=a6e3a1" alt="哲's GitHub Stats">
+  <img width="720" src="https://github-readme-stats.vercel.app/api?username=zhangjizhe&theme=tokyonight" alt="哲's GitHub Stats">
 </p>
 
 <br>
 
-## 🛠️ Auto Generate Skill Tree（全自动扫描仓库生成技能树）
+## 🛠️ Auto Generate Skill Tree（全自动仓库识别技能）
 <p align="center">
-  <!-- v=4 强制清除缓存，解决图片空白不显示 -->
-  <img width="860" src="https://github-skill-tree.vercel.app/api?username=zhangjizhe&theme=dark&v=4" alt="Auto Skill Tree">
+  <img width="860" src="https://github-skill-tree.vercel.app/api?username=zhangjizhe&theme=dark&v=5" alt="Auto Skill Tree">
 </p>
 
 <br>
 
-## 🤖 Core Tech Icons
+### 🤖 AI Agent 开发（主攻方向）
 <p align="center">
-<!-- 把langchain、langgraph放在最前面，强化AI开发标签 -->
-<img src="https://skillicons.dev/icons?i=langchain,langgraph,python,ts,js,react,nest,docker,mysql,git&theme=dark&perline=10&size=52" />
+<img src="https://skillicons.dev/icons?i=langchain,langgraph,python&theme=dark&size=55" />
 </p>
+<p align="center" style="color:#999;">LangChain | LangGraph | TS</p>
 
-<!-- 自定义 LangRefuse 单独一行（替换raw图片链接即可展示）
+<br>
+
+### 🎨 前端开发
 <p align="center">
-  <img width="52" src="此处替换你的langrefuse图片raw地址" alt="LangRefuse">
+<img src="https://skillicons.dev/icons?i=ts,js,react&theme=dark&size=55" />
 </p>
--->
+<p align="center" style="color:#999;">TypeScript | JavaScript | React</p>
+
+<br>
+
+### ⚙️ 后端 & 数据库
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nest,mysql&theme=dark&size=55" />
+</p>
+<p align="center" style="color:#999;">NestJS | MySQL</p>
+
+<br>
+
+### 🚀 工程运维工具
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git&theme=dark&size=55" />
+</p>
+<p align="center" style="color:#999;">Docker | Git</p>
